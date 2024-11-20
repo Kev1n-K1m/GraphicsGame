@@ -1,7 +1,11 @@
 import sys
 import os
 
-sys.path.append(os.path.abspath("E:/ubuntu/assignment_code/src"))
+current_dir = os.getcwd()
+
+src_dir = os.path.join(current_dir, 'src')
+
+sys.path.append(src_dir)
 from src import main
 from . import ImportObject
 
