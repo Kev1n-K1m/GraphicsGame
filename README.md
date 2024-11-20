@@ -10,7 +10,7 @@ press "b" to backView mode
 
 press "q" to quit the game
 
-"UP","DOWN","LEFT","RIGIT" on your keyboard is for move the car forward, backward and turn around
+"UP","DOWN","LEFT","RIGIT" on your keyboard is to move the car forward, backward and turn around
 
 What should you do :
 
