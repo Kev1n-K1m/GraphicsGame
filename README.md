@@ -10,6 +10,8 @@ press "b" to backView mode
 
 press "q" to quit the game
 
+"UP","DOWN","LEFT","RIGIT" on your keyboard is for move the car forward, backward and turn around
+
 What should you do :
 
 (1) Pick Amy(the woman in the game) and reach the end.
